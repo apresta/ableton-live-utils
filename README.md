@@ -1,6 +1,6 @@
 **EditAudioWith.app** (macOS-only):
 
-Set this as your sample editor in Live's Preferences. Upon editing a sample, it will pop up a menu, letting you choose among different editing apps (RX, Melodyne, and Audacity).\
+Set this as your sample editor in Live's Preferences. Upon editing a sample, it will pop up a menu, letting you choose among different editing apps (RX, Melodyne, and Audacity).
 
 You can customize the app menu by opening this app with **Script Editor**.
 
